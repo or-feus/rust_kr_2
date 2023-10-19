@@ -1,0 +1,9 @@
+
+*.lock
+./*/target
+.gitignore
+.idea
+/*.o
+
+# Project exclude paths
+/structs/target/
