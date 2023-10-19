@@ -1,0 +1,1 @@
+/Users/feus/JetBrains/rust/starter/modules/target/debug/modules: /Users/feus/JetBrains/rust/starter/modules/src/garden/vegetables.rs /Users/feus/JetBrains/rust/starter/modules/src/garden.rs /Users/feus/JetBrains/rust/starter/modules/src/lib.rs /Users/feus/JetBrains/rust/starter/modules/src/main.rs

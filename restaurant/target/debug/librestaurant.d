@@ -1,0 +1,1 @@
+/Users/feus/JetBrains/rust/starter/restaurant/target/debug/librestaurant.rlib: /Users/feus/JetBrains/rust/starter/restaurant/src/front_of_house/hosting.rs /Users/feus/JetBrains/rust/starter/restaurant/src/front_of_house.rs /Users/feus/JetBrains/rust/starter/restaurant/src/lib.rs
